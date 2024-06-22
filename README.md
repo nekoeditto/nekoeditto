@@ -1,5 +1,8 @@
-<div align="center">
+<div align="center">    
     <h2>Hello! I'm ネコエディット<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Waving Hand Medium-Light Skin Tone" width="25" height="25" /></h2>
+
+   ---
+    
 <h2> OS List </h2>
 </a>
  <a href="https://www.microsoft.com/en/windows/" target="_blank" rel="noreferrer">
@@ -14,13 +17,19 @@
    <img src="https://img.shields.io/badge/macOS_Sonoma-white?logo=macos">
   </picture>
  </a>
+
+   ---
+ 
 <h2>Devices:</h2>
 <div align="left">
 <h3>- Xiaomi 11T</h3>
 <h3>- Lumia 640XL</h3>
 <h3>- Asus Vivobook Max X541SA</h3>
-<h3>- Asus Tuf Gaming A17 FX706IH</h3>
+<h3>- Asus Tuf Gaming A17 FX706IH</h3>   
     <div align="center">
+
+   ---
+        
 <h2>Asus Tuf Gaming A17 specs</h2>
 
    ---
@@ -35,7 +44,13 @@
 <h3>Storage: SATA Patriot P210 128Gb SSD</h3>
 <h3>OS: Windows 11 and macOS Sonoma</h3>
  <div align="center">
+
+  ---
+     
 <h2>Asus VivoBook Max X541SA specs</h2>
+
+  ---
+
 <div align="left">
 <h3>CPU: Intel® Celeron N3060</h3>
 <h3>iGPU: Intel® HD Graphics 400</h3>
